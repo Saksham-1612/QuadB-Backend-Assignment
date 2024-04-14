@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Saksham-1612/QuadB-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Saksham-1612/QuadB-Dashboard.git
